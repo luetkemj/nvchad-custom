@@ -1,5 +1,3 @@
-# how to use this repo
-
 ## Install NvChad 
 
 [Installation instructions](https://nvchad.com/docs/quickstart/install)
