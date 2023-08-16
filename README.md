@@ -1,8 +1,12 @@
 install this repo into the default nvchad nvim config.
 
-create directory if one does not already exist:
-./.config/nvim/lua/custom
+navigate to nvchad config (neovim config)
+cd ~/.config/nvim/lua
 
-all filed from this directory go within it
+remove existing custom dir if it exists
+rm -rf ./custom
+
+clone repo
+git clone git@github.com:luetkemj/nvchad-custom.git custom
 
 restart nvim
